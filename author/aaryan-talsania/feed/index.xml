@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aaryan Coders &#8211; Aaryan Coder&#039;s</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Coding Is Life!</description>
+	<lastBuildDate>Wed, 02 Jun 2021 04:17:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/03/cropped-cropped-A-in-fire-32x32.jpg</url>
+	<title>Aaryan Coders &#8211; Aaryan Coder&#039;s</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Coding Quotes</title>
+		<link>./../../../2020/12/25/coding-quotes/index.html</link>
+		
+		<dc:creator><![CDATA[Aaryan Coders]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 12:12:46 +0000</pubDate>
+				<category><![CDATA[Coding Quotes]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=507</guid>
+
+					<description><![CDATA[“There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.”
+– C.A.R. Hoare]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p><em><strong>All of my friends who have younger siblings who are going to college or high school &#8211; my number one piece of advice is: You should learn how to program</strong></em></p><cite><strong><em>&#8211; </em>Mark Zuckerberg</strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><strong>Coding is the language of the future, and every girl should learn it. As I&#8217;ve learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative</strong></em></p><cite><strong><em>&#8211; </em>Reshma Saujani</strong><br> </cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><strong>I think it&#8217;s fair to say that personal computers have become the most empowering tool we&#8217;ve ever created. They&#8217;re tools of communication, they&#8217;re tools of creativity, and they can be shaped by their user</strong></em></p><cite><strong>&#8211; Bill Gates</strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><strong>Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn</strong></em></p><cite><strong>&#8211; Stephen Hawking</strong><br></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><strong>Everybody should learn to program a computer, because it teaches you how to think</strong></em></p><cite><strong>&#8211; Steve Jobs</strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><em><strong>I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12.</strong></em></p><cite><strong>&#8211; Elon Musk</strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Whatever you build, build with care.  Anyone who has built something big, has done it with care.</strong></p><cite><strong>-Mark Zuckerberg</strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots.  So far the Universe is winning.</strong></p><cite><strong>– <em>Rich Cook</em></strong></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers, they are mentally mutilated beyond hope of regeneration.</strong></p><cite>– <em><strong>Edsger Dijkstra</strong></em></cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.</strong></p><cite> – <em><strong>Seymour Cray</strong></em></cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Coding Rules</title>
+		<link>./../../../2020/12/25/coding-rules/index.html</link>
+		
+		<dc:creator><![CDATA[Aaryan Coders]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 11:47:51 +0000</pubDate>
+				<category><![CDATA[Codings Rules]]></category>
+		<category><![CDATA[Coding Rules]]></category>
+		<category><![CDATA[Important Coding Rules to Learn from Great Developers]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=504</guid>
+
+					<description><![CDATA[After reading all the above points you may have realized that software development is not just about writing the code and making things work. There are a lot of things to remember when you’re working on some applications. Keep in mind all the above key points and follow them in your development journey. You will surely make progress in your career. ]]></description>
+										<content:encoded><![CDATA[
+<h1 class="alignwide has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">Important Coding Rules </span></strong></h1>
+
+
+
+<p class="has-text-align-center"><strong><span class="has-inline-color has-black-color">If you have never coded ever then you might be thinking that software development is all about writing a bunch of lines of code in some languages and then releasing it to the production level whenever it is ready. Well, this is true but partially.&nbsp;Ask a developer what they actually do in their day-to-day job? How they write code and what are some hidden rules they need to take care of when they are building some features. There are a lot of unwritten rules a developer needs to follow apart from just writing the code. Even their mood can be identified by the piece of code they write in their application.&nbsp;Remember that programming isn’t just about solving the problem and making your feature works. You also have to take care of a lot of things. How you’re naming your variable, how you’re using loops, conditional statement, comments, etc. How you’re documenting, debugging, and testing your application. These are some responsibilities known by only the developer and their team. Customers or the end users are completely unaware of it but these important factors matter a lot when it comes to launching the software successfully in the market.</span></strong></p>
+
+
+
+<p class="has-text-align-center"><strong>Now we have some questions for you…</strong></p>
+
+
+
+<p class="has-text-align-center"><strong>What will happen if an application is not tested properly and it breaks when a user is using it? </strong></p>
+
+
+
+<p class="has-text-align-center"><strong>What will happen if a new developer has to work on some code written by another developer, and he/she gets confused just because of the complexity of the code? Obviously, he/she will take more time or won’t be able to continue with it.</strong></p>
+
+
+
+<p class="has-text-align-center"><strong>Someone who never coded before is always unaware of these issues and the solution to it. In this blog, we will discuss these issues and some important aspects of software development that should be followed by developers.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">1. Be Consistent</span></strong></h3>
+
+
+
+<p><strong>Follow a consistent coding standard in your application. Whatever structure or approach you follow, make sure that you are consistent with it throughout your whole application. If you follow one way to do something in one place then follow a similar way at other places. This will make your code more readable and maintainable.&nbsp;For example: if you’re naming a variable such as variableOne, variableTwo in your application then follow a similar way at other places. For the third variable, the name should be variableThree not variable_three. Take care of these little things.&nbsp;The coding standard should be as little as the naming convention of your variable. The structure of your application should be as simple as possible so that other developers can easily work on it, add features to it, and make changes to it.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">2. Reduce Nesting</span></strong></h3>
+
+
+
+<p><strong>A lot of times developers write nesting statements in their code. For example…writing if statement within another if or if-else statement within another if-else. Many times it becomes very confusing to read and understand the code. Your application becomes complex and messy with the nesting structure of your code.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">3. Zoom Out and Think of the Bigger Picture</span></strong></h3>
+
+
+
+<p><strong>Whenever you start working on a project you need to zoom out the picture of your software. Think of the bigger picture to analyze the smaller details of your application. This will help you to understand the architecture of your software and its various components.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">4. Naming Things in Your Code</span></strong></h3>
+
+
+
+<p><strong>One of the toughest parts of software development is choosing a relevant name for each piece of code. You need to pay attention carefully to the variable, class, or method names. For example: if you’re building some project where you’re doing some calculation for leap year then you can give it the name “leap year”. Someone who is going to look at your code will definitely get that you have done something related to leap year.&nbsp;A good naming convention is important to increase the readability of your code and it also reduces the unnecessary lines of comments.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">5. Overestimate</span></strong></h3>
+
+
+
+<p><strong>Being a developer you should always consider that a task takes a long time to complete than you expect. Always overestimate the timing for your tasks when you’re working on a project. Underestimating the tasks can create technical debt in your application. You will have the time to make your feature works but you won’t have time to make the code clean and maintainable.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">6. Documentation and Code Comments</span></strong></h3>
+
+
+
+<p><strong>A lot of developers avoid commenting on the code or documenting the things in their application. They think that it’s just a wastage of time but that’s not true. Documentation and comments help a lot in understanding the role of a specific part of the application.&nbsp;When you’re commenting on your code it explains why you did something. When other developers start working on it they immediately understand the features, modules, or components. It becomes easy for them to understand your code, work on it, and change it.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">7. Delete Unnecessary Code</span></strong></h3>
+
+
+
+<p><strong>In development, most of the time developers write some code and later they comment out that massive block of comment just because they are less confident about it. They leave them there thinking that in the future they may have to use that piece of code. Great developers know very well that which specific part of the code is not important in the codebase. Version control is there for a purpose and great developers are confident about deleting the bad parts of the application.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">8. Give Some Time to Code Reviews</span></strong></h3>
+
+
+
+<p><strong>Do not underestimate the importance of code reviews in software development. A great developer always spends a good time on code reviews, and they know how it can help to build a good application. Below are some good things about code review…</strong></p>
+
+
+
+<ul><li><strong><span class="has-inline-color has-vivid-red-color">You can detect bugs early before it creates some major issues in software</span></strong></li><li><strong><span class="has-inline-color has-vivid-red-color">You will save your time, you will improve your skills and you will learn some good practices.</span></strong></li><li><strong><span class="has-inline-color has-vivid-red-color">Sharing knowledge.</span></strong></li><li><strong><span class="has-inline-color has-vivid-red-color">Software design and implementation will be consistent.</span></strong></li></ul>
+
+
+
+<p><strong>For the best code review process, you can follow some practical tips given below…</strong></p>
+
+
+
+<ul><li><span class="has-inline-color has-vivid-red-color"><strong>If you have a sm</strong></span><strong><span class="has-inline-color has-vivid-red-color">all task with less risk involved then 1 developer is enough to review the code.</span></strong></li><li><strong><span class="has-inline-color has-vivid-red-color">If you have medium-sized tasks with more risk or more changes involved then 3-5 developers can review the code but one of them should be a senior developer.</span></strong></li><li><strong><span class="has-inline-color has-vivid-red-color">If you’re working on a more risky task/change then arrange a meeting and communicate with at least 3 developers. Also, one of them should be a lead developer going through each line together and checking the points.</span></strong></li></ul>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">9. Testing</span></strong></h3>
+
+
+
+<p><strong>A lot of developers avoid testing considering it a time-consuming process but good developers never run away from testing. They take time in writing a good test and it helps them in scaling the application with more confidence. Also, you prevent yourself from introducing a lot of bugs in software.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">10. Focus on The Fundamentals and Not on The Syntax</span></strong></h3>
+
+
+
+<p><strong>This is one of the most important things to learn in software development. Good developers know that having a good grasp of fundamentals is more important than over-focusing on language syntax. You will be able to detect the problems effectively.&nbsp;You will have more understanding of the issues and software when you grasp the fundamental concept. This helps in googling your problems and detecting bugs easily in the future.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">11. Take the Help of Google</span></strong></h3>
+
+
+
+<p><strong>Searching for a problem on Google is not a sign of a bad developer. It is smartness and it also boosts the productivity of a developer. Good developers are experts in Googling things and solving problems. Read tips number 4 once again. A developer who has a good grasp on fundamental concept know what&nbsp;Google terms to search.&nbsp;Don’t be obsessed with learning the syntax. Make Google your best friend, focus on fundamentals and it helps a lot in googling the things and getting the required solution.</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">12. Make it Work Then Make it Perfect Later</span></strong></h3>
+
+
+
+<p><strong>A lot of time developers pay too much attention to making things prettier. Their focus gets shifted towards it more instead of checking that if their code is running or not. They spend so much time on making things perfect and later when they execute their code, they find that it doesn’t work. Being a developer, the more time you spend on making things perfect the more you find things are imperfect in your software. When you’re working on some tasks, first focus on making things work properly. Once this is done, you can focus on making things perfect.&nbsp;This approach saves a lot of time and you can identify issues early before making things perfect. There is no point in making things too perfect if your code or feature doesn’t work.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">13. Ask Questions</span></strong></h3>
+
+
+
+<p><strong>Great developers don’t get hesitated in asking questions. They ask questions whenever they don’t know something even the question is the simplest one. Asking questions is not embarrassing for them. They are confident in their ability and they don’t get scared in asking questions. These questions can be related to a technical or business-related question.&nbsp;</strong></p>
+
+
+
+<p><strong>Asking questions clear out all the confusion and it’s a sign of curiosity rather than incapability of doing something.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-cyan-blue-color">14. KISS (Keep it Simple Stupid)</span></strong></h3>
+
+
+
+<p><strong>A lot of developers write the complicated code just to show off how intelligent they’re. Things are actually the opposite. Great developers believe in making things simple rather than complicated. They write simple code so that other developers can understand it, modify it, and work on it. Also, keeping things simple in your code makes your application more readable and maintainable.&nbsp;</strong></p>
+
+
+
+<h3 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">Final Thought</span></strong></h3>
+
+
+
+<p class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">After reading all the above points you may have realized that software development is not just about writing the code and making things work. There are a lot of things to remember when you’re working on some applications. Keep in mind all the above key points and follow them in your development journey. You will surely make progress in your career.&nbsp;</span></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why Coding Is Important ?</title>
+		<link>./../../../2020/12/25/why-coding-is-important/index.html</link>
+		
+		<dc:creator><![CDATA[Aaryan Coders]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 11:06:24 +0000</pubDate>
+				<category><![CDATA[Why Coding Is Important ?]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=498</guid>
+
+					<description><![CDATA[The point of teaching coding to children is not just so kids may pursue a career in the field. A lot of kids might not even enjoy it and treat it like another boring subject which is part of their curriculum; even then, there are plenty of benefits of the coding language that may not be obvious right now, but they will reflect on later in life. ]]></description>
+										<content:encoded><![CDATA[
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">1.    Coding Helps Kids Develop Analytical Skills</span></strong></h2>
+
+
+
+<p class="has-text-align-left"><strong>Coding is a set of instructions that we give the computer to perform certain actions. To form the instructions, coders usually break down bigger problems into smaller parts. This helps to develop their analytical skills, and kids can apply the same principles when solving problems in other fields.</strong></p>
+
+
+
+<p class="has-text-align-left"><strong>Introducing this language to your kid at an early age can help polish their analytical capabilities, and they will solve their problems with logic and reasoning. These abilities are useful when it comes to other subjects as well, such as mathematics, spellings, and problem-solving. Moreover, upon reaching middle school, they can exercise these abilities on more subjects such as physics, data analysis, geometry, stats, etc.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">2.   Coding Fosters Creative Thinking</span></strong></h2>
+
+
+
+<p><strong>There is no one right way to code; you can implement your algorithm and get the task done. This concept helps kids unleash their creativity, and they are willing to experiment because they know that there is no one right solution. Therefore, they are encouraged to think outside the box and come up with solutions on their own. This kind of encouragement is especially important for kids as their minds are full of creative ideas and thoughts.</strong></p>
+
+
+
+<p><strong>Unfortunately, the structure of our education system does not let these ideas mature, and by the time the kids reach middle school, their career path is set by societal and cultural trends instead of their aspirations. If your kid at an early age learns how to think outside the box, they can gain the confidence to make better career decisions later in life and choose a path which they enjoy.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">3.   Coding Helps Instill Life Skills</span></strong></h2>
+
+
+
+<p><strong>In the day and age we live in today, we simply cannot deny the importance of computational skills technological knowledge. Learning the coding language allows your children to become familiar with computer-related programs, which is extremely important in the digitalized world we live in today.</strong></p>
+
+
+
+<p><strong>Therefore, if you want to give your kid a kick-start in learning about various computational operations, then coding is an excellent way to begin! There are several mobile app development services that are working on mobile apps to help kids learn how to code. If you don’t want to enroll them in a full fledge course, then you can make them learn through these applications or online resources.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">4.   Opens Career Opportunities</span></strong></h2>
+
+
+
+<p><strong>Coding is a great skill that opens doors to several career opportunities. If your kid is good at it, then he has already paved the path for his future career and a well-established one too. Coding is a must-have skill and is becoming more and more important with time. In a few years, not learning how to code will be equivalent to not knowing how to read.</strong></p>
+
+
+
+<p><strong>Especially with the world moving towards digitalization, even the smallest businesses require employees with sound computational knowledge to manage their online platforms. Hence, in the future and even today, people who know how to code or have a fair amount of computational knowledge have the edge over those who don’t. </strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">5.   Coding Helps Kids Learn Perseverance</span></strong></h2>
+
+
+
+<p><strong>Coding can be fun once you get the hang of it, but it not easy, especially for kids who are still struggling with basic mathematical concepts. With a subject like coding, kids learn how to take care of their problems and come to terms with the fact that it is okay to make mistakes. They also learn that they can rectify their mistakes and prevent their programs from crashing.</strong></p>
+
+
+
+<p><strong>Moreover, they learn the value of hard work and patience as it ultimately leads to their program functioning smoothly. This is something that kids usually don’t learn with other subjects. Although this isn’t entirely true as they do get marks based on their performance, having a code run smoothly is a different kind of reward.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-vivid-red-color">6.   Boosts Confidence</span></strong></h2>
+
+
+
+<p><strong>If you have ever coded yourself, you must be aware of the adrenaline rush when your code runs successfully. Well, this is exactly the kind of boost your kid will enjoy if their code is functional. Being able to experiment with different functions and developing your product can be a big confidence boost for a person of any age.</strong></p>
+
+
+
+<p><strong>When a kid learns how to code, they will feel more confident in their abilities and more willing to experiment. Moreover, kids also learn the important lesson of accepting failure and learning from it instead of feeling dejected as codes barely works 100% the first time. It always requires a few minor tweaks, if not major, before it can be fully functional.</strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-luminous-vivid-orange-color">The Future is Coding</span></strong></h2>
+
+
+
+<p class="has-text-align-center"><strong><span class="has-inline-color has-vivid-purple-color"><em>It is fair to assume that the future will be technologically more advanced, and many aspects of our lives will be digitalized. Even the toys our kids are using have sensors, microchips, and other tech elements. It is becoming increasingly important for us to become familiar with the new gadgets and it will be even more important for the next generation. Teaching your child this language at an early age will help them pick concepts in a better way as they grow up.</em></span></strong></p>
+
+
+
+<h2 class="has-text-align-center"><strong><span class="has-inline-color has-luminous-vivid-orange-color">Key Takeaways</span></strong></h2>
+
+
+
+<p class="has-text-align-center"><strong><em><span class="has-inline-color has-vivid-purple-color">The point of teaching coding to children is not just so kids may pursue a career in the field. A lot of kids might not even enjoy it and treat it like another boring subject which is part of their curriculum; even then, there are plenty of benefits of the coding language that may not be obvious right now, but they will reflect on later in life. </span></em></strong></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
